@@ -1,0 +1,3 @@
+/Users/kangkang/CLionProjects/datastructureHW3-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kangkang/CLionProjects/datastructureHW3-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kangkang/CLionProjects/datastructureHW3-1/cmake-build-debug/CMakeFiles/datastructureHW3-1.dir
